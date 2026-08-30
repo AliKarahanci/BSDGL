@@ -9,6 +9,3 @@ BSD Game Launcher is wine/dxvk game launcher for BSD'
 ```
 ###
 ```
-
-### Familiar Alternatives / Inspiration
-* [Lutris](https://lutris.net/)
